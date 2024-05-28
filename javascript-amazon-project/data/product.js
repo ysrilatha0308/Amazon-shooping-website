@@ -656,5 +656,307 @@ const products = [
       "apparel",
       "mens"
     ]
-  }
+  },
+  
+  {
+    id: "ab3f2b1c-089a-4fd2-8e56-0f6d5765c72c",
+    image: "images/products/double-wall-insulated-stainless-steel-water-bottle.jpg",
+    name: "Double Wall Insulated Stainless Steel Water Bottle - 32 Oz",
+    rating: {
+    stars: 4.5,
+    count: 587
+    },
+    priceCents: 1599,
+    keywords: [
+    "water bottle",
+    "hydration",
+    "fitness"
+    ]
+    },
+    {
+    id: "b99e7d6b-b72a-4c73-b9e7-2ef7f5401e14",
+    image: "images/products/women-fleece-lined-leggings.jpg",
+    name: "Women's Fleece-Lined Leggings - Black",
+    rating: {
+    stars: 4.5,
+    count: 2123
+    },
+    priceCents: 1899,
+    keywords: [
+    "leggings",
+    "apparel",
+    "womens"
+    ]
+    },
+    {
+    id: "c44e8b67-3f98-46de-bba0-6ea27cdd449b",
+    image: "images/products/digital-bathroom-scale.jpg",
+    name: "Digital Bathroom Scale with Step-On Technology",
+    rating: {
+    stars: 4.5,
+    count: 994
+    },
+    priceCents: 2599,
+    keywords: [
+    "bathroom scale",
+    "fitness",
+    "health"
+    ]
+    },
+    {
+    id: "d6e3f942-68f2-4390-94f4-f9a0ed3cb57e",
+    image: "images/products/usb-rechargeable-headlamp.jpg",
+    name: "USB Rechargeable LED Headlamp",
+    rating: {
+    stars: 4,
+    count: 123
+    },
+    priceCents: 1799,
+    keywords: [
+    "headlamp",
+    "camping",
+    "outdoor"
+    ]
+    },
+    {
+    id: "ea5e7d0e-bb6e-4ae5-92c9-462c6a1f4f7f",
+    image: "images/products/electric-milk-frother.jpg",
+    name: "Electric Milk Frother and Steamer",
+    rating: {
+    stars: 4.5,
+    count: 567
+    },
+    priceCents: 3499,
+    keywords: [
+    "milk frother",
+    "kitchen",
+    "appliances"
+    ]
+    },
+    {
+    id: "f21b1c70-13ec-4a9f-a5e1-1b9db37d0cdd",
+    image: "images/products/dish-drying-rack-stainless-steel.jpg",
+    name: "Stainless Steel Dish Drying Rack",
+    rating: {
+    stars: 4.5,
+    count: 432
+    },
+    priceCents: 2499,
+    keywords: [
+    "dish rack",
+    "kitchen",
+    "storage"
+    ]
+    },
+    {
+    id: "13f2d1c4-1b92-4ad8-a5c3-c3dd1e4f7e1f",
+    image: "images/products/adjustable-office-chair.jpg",
+    name: "Ergonomic Adjustable Office Chair - Black",
+    rating: {
+    stars: 4.5,
+    count: 987
+    },
+    priceCents: 10999,
+    keywords: [
+    "office chair",
+    "furniture",
+    "office"
+    ]
+    },
+    {
+    id: "24f8f2c2-5b2f-4e85-b6c5-4a0a6e6d5b1e",
+    image: "images/products/silicone-baking-mat-set.jpg",
+    name: "Silicone Baking Mat Set - 3 Pieces",
+    rating: {
+    stars: 4.5,
+    count: 852
+    },
+    priceCents: 1999,
+    keywords: [
+    "baking mat",
+    "kitchen",
+    "baking"
+    ]
+    },
+    {
+    id: "35e7d6d7-c9e4-4b25-b7d5-1a6d3f9f7e9b",
+    image: "images/products/cordless-handheld-vacuum.jpg",
+    name: "Cordless Handheld Vacuum Cleaner",
+    rating: {
+    stars: 4,
+    count: 320
+    },
+    priceCents: 4599,
+    keywords: [
+    "vacuum cleaner",
+    "cleaning",
+    "home"
+    ]
+    },
+    {
+    id: "46f8f3d8-1b63-4d85-a7d5-1a2c6e7f6c2d",
+    image: "images/products/memory-foam-pillow.jpg",
+    name: "Memory Foam Pillow with Cooling Gel",
+    rating: {
+    stars: 4.5,
+    count: 678
+    },
+    priceCents: 2999,
+    keywords: [
+    "pillow",
+    "bedding",
+    "bedroom"
+    ]
+    },
+    {
+    id: "57f9d7e9-2b74-4e95-b8e5-2b3c7f8f7d8e",
+    image: "images/products/wireless-earbuds.jpg",
+    name: "Wireless Bluetooth Earbuds with Charging Case",
+    rating: {
+    stars: 4.5,
+    count: 1423
+    },
+    priceCents: 5999,
+    keywords: [
+    "earbuds",
+    "electronics",
+    "audio"
+    ]
+    },
+    {
+    id: "68f9d8f0-3c85-4f95-b9f6-3c4d8f8f8d9f",
+    image: "images/products/yoga-mat.jpg",
+    name: "Non-Slip Yoga Mat - 1/4 Inch Thick",
+    rating: {
+    stars: 4.5,
+    count: 876
+    },
+    priceCents: 2099,
+    keywords: [
+    "yoga mat",
+    "fitness",
+    "exercise"
+    ]
+    },
+    {
+    id: "79f9e9f1-4d96-4fa5-baf7-4d5e9f8f8f0e",
+    image: "images/products/bamboo-cutting-board-set.jpg",
+    name: "Bamboo Cutting Board Set - 3 Pieces",
+    rating: {
+    stars: 4.5,
+    count: 654
+    },
+    priceCents: 2499,
+    keywords: [
+    "cutting board",
+    "kitchen",
+    "cooking"
+    ]
+    },
+    {
+      id: "8a0f0f12-5ea7-4fb5-bbf8-5e6f9f8f8f1f",
+      image: "images/products/stainless-steel-cookware-set.jpg",
+      name: "Stainless Steel Cookware Set - 10 Pieces",
+      rating: {
+      stars: 4.5,
+      count: 432
+      },
+      priceCents: 8999,
+      keywords: [
+      "cookware",
+      "kitchen",
+      "cooking"
+      ]
+      },
+      {
+      id: "9b1f1f23-6fb8-4fc5-bcf9-6f7f0f8f8f2f",
+      image: "images/products/ceramic-coffee-mug-set.jpg",
+      name: "Ceramic Coffee Mug Set - 6 Pieces",
+      rating: {
+      stars: 4.5,
+      count: 324
+      },
+      priceCents: 1999,
+      keywords: [
+      "coffee mug",
+      "kitchen",
+      "drinkware"
+      ]
+      },
+      {
+      id: "ac2f2f34-7fc9-4fd5-bdf0-7f8f0f8f8f3f",
+      image: "images/products/weighted-blanket.jpg",
+      name: "Weighted Blanket - 15 Lbs",
+      rating: {
+      stars: 4.5,
+      count: 1456
+      },
+      priceCents: 7999,
+      keywords: [
+      "blanket",
+      "bedding",
+      "bedroom"
+      ]
+      },
+      {
+      id: "bd3f3f45-8fd0-4fe5-bef1-8f9f0f8f8f4f",
+      image: "images/products/smart-electric-pressure-cooker.jpg",
+      name: "Smart Electric Pressure Cooker - 6 Qt",
+      rating: {
+      stars: 4.5,
+      count: 987
+      },
+      priceCents: 9999,
+      keywords: [
+      "pressure cooker",
+      "kitchen",
+      "appliances"
+      ]
+      },
+      {
+      id: "ce4f4f56-9fe1-4ff5-cf02-9f0f0f8f8f5f",
+      image: "images/products/bluetooth-speaker.jpg",
+      name: "Portable Bluetooth Speaker with Bass",
+      rating: {
+      stars: 4.5,
+      count: 1345
+      },
+      priceCents: 3999,
+      keywords: [
+      "bluetooth speaker",
+      "electronics",
+      "audio"
+      ]
+      },
+      {
+      id: "df5f5f67-a0f2-5ff5-df13-af0f0f8f8f6f",
+      image: "images/products/smart-robot-vacuum-cleaner.jpg",
+      name: "Smart Robot Vacuum Cleaner with Wi-Fi Connectivity",
+      rating: {
+      stars: 4.5,
+      count: 872
+      },
+      priceCents: 22999,
+      keywords: [
+      "robot vacuum",
+      "cleaning",
+      "home"
+      ]
+      },
+      {
+      id: "ef6f6f78-b1f3-6ff5-ef24-bf0f0f8f8f7f",
+      image: "images/products/waterproof-digital-camera.jpg",
+      name: "Waterproof Digital Camera - 12 MP",
+      rating: {
+      stars: 4,
+      count: 432
+      },
+      priceCents: 11999,
+      keywords: [
+      "digital camera",
+      "electronics",
+      "photography"
+      ]
+      }
+  
 ];
